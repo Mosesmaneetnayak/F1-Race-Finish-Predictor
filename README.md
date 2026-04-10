@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🔗 Live App
-**[f1-finishposition-predictor.streamlit.app](https://f1-finishposition-predictor.streamlit.app/)**
+**[f1-finishposition-predictor.streamlit.app]()**
 
 ---
 
