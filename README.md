@@ -46,7 +46,7 @@
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/subhankar-pattanaik/AI_project.git
+git clone https://github.com/Mosesmaneetnayak/F1-Race-Finish-Predictor.git
 cd AI_project
 pip install -r requirements.txt
 streamlit run app.py
